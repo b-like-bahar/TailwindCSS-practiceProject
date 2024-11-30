@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "postcss.config.js",
   "scripts": {
-    "build:css": "npx tailwindcss build styles.css -o dist/styles.css"
+    "build:css": "npx tailwindcss build styles.css -o dist/styles.css --watch"
   },
   "keywords": [],
   "author": "",

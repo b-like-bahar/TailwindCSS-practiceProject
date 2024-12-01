@@ -632,6 +632,10 @@ video {
   align-items: center;
 }
 
+.justify-center {
+  justify-content: center;
+}
+
 .justify-between {
   justify-content: space-between;
 }
@@ -855,10 +859,6 @@ video {
 
   .sm\:w-96 {
     width: 24rem;
-  }
-
-  .sm\:w-3\/4 {
-    width: 75%;
   }
 }
 

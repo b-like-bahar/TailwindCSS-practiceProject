@@ -8,10 +8,10 @@ This project is a simple blog about plants and gardening, built using Tailwind C
 
 Below are some screenshots showcasing the design across different devices:
 
-### 1. Mobile view
+### 1. Mobile View
 ![Home Page](./preview/blog-mobile-view.png)
 
-### 2. Tablet and Desktop
+### 2. Tablet and Desktop View
 ![City Detail Page](./preview/blog-tablet-desktop-view.png)
 
 ---
@@ -25,21 +25,22 @@ Below are some screenshots showcasing the design across different devices:
 2. **Install Dependencies:**
 
 
-Navigate to the project folder and install the required dependencies:
+   Navigate to the project folder and install the required dependencies:
       ```bash
    cd TailwindCSS-practiceProject
    npm install
 
 3. **Start Development:**
 
-To preview the website, you can use the Go Live extension in VS Code (or any other local server tool). For live editing of Tailwind CSS, run the following command:
+   To preview the website, you can use the Go Live extension in VS Code (or any other local server tool). For live editing of Tailwind CSS, run the following command:
       ```bash
    npm run build:css
 
 
 4. **Viewing the Website:**
 
-Once the build is running, open the project in your browser. If you're using VS Code, you can use the Go Live extension for an easy local server. Alternatively, you can open index.html directly in your browser.
+   Once the build is running, open the project in your browser. If you're using VS Code, you can use the Go Live extension for an easy local server. Alternatively, you can 
+   open index.html directly in your browser.
 
 ---
 
